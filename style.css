@@ -1,0 +1,19 @@
+div{
+    color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
+
+#water_botle{
+    width: 200px;
+    height: 300px;
+}
+
+body{
+    background-color: black;
+}
